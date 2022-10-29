@@ -68,6 +68,70 @@
       "groups": {
         "Ning's Basement": "/proxy/api/mangadex/chapter/5f679d54-11c3-4837-b7d0-6976cbc89884"
       }
+    },
+    "9": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667058311",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/31b8df62-ae98-4103-81fd-46876ce03e83"
+      }
+    },
+    "10": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667058339",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/3115bc15-0970-4cb5-8bb6-2557a208a388"
+      }
+    },
+    "11": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667058354",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/285447c9-0cd6-4e30-a76d-0e1d928bba9b"
+      }
+    },
+    "12": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667058435",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/abff47b9-deae-42df-8802-fd906a8416c3"
+      }
+    },
+    "13": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667058464",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/2895b6bd-a51e-4c39-b67a-6e86c469e4b3"
+      }
+    },
+    "14": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667058475",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/e68da473-48e4-4b00-95ff-b536b75a2218"
+      }
+    },
+    "15": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667058481",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/d771c333-1dae-4ad6-a13a-44cce3cf6a23"
+      }
+    },
+    "9.5": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667058630",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/69421e44-d84d-40bb-b688-8443ff400c35"
+      }
     }
   }
 }
