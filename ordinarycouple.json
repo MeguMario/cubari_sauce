@@ -1,0 +1,145 @@
+{
+  "title": "Câu chuyện về một cặp đôi rất đỗi bình thường",
+  "description": "Một câu chuyện về một cặp đôi rất đỗi bình thường",
+  "artist": "Tokiwa",
+  "author": "Tokiwa",
+  "cover": "https://media.discordapp.net/attachments/782985353262268429/1035948718555410452/cover_edit_lq.png",
+  "chapters": {
+    "1": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667059833",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/b3870c8c-c14b-45b1-95ce-4aa3c7d65af3"
+      }
+    },
+    "2": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667059863",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/73739e05-44f6-435e-8c31-41839b1555fe"
+      }
+    },
+    "3": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667059908",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/bce5ad55-6793-4bcb-8a28-74c0f9db9212"
+      }
+    },
+    "4": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667059926",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/37910e1f-de95-405a-8a04-4c4e521bf8c4"
+      }
+    },
+    "5": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667059937",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/a9877ab9-c6eb-49d5-8635-5d5b065c02d0"
+      }
+    },
+    "6": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667059952",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/7ee093d6-29bb-4fa5-8cd9-9a72c7224c84"
+      }
+    },
+    "7": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667059961",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/77b12c17-fca8-49b9-9cfb-f7c27d79f1ce"
+      }
+    },
+    "8": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667059976",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/0a6cee31-75fa-4223-93b4-47044209ef5c"
+      }
+    },
+    "9": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667060005",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/d8ed58b5-38f2-402b-9da7-0ad4d73445c9"
+      }
+    },
+    "10": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1667060050",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/ebe1d769-98ca-40cb-944a-142cc5640682"
+      }
+    },
+    "11": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1667060067",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/a1f3445b-865f-4e13-b7f4-1e3efdfe4d0a"
+      }
+    },
+    "12": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1667060084",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/6377d8d7-3ea0-41db-8d5f-db1f6138cc88"
+      }
+    },
+    "13": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1667060121",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/fed16ab5-09a5-439e-984a-d15f5dc25d43"
+      }
+    },
+    "2.5": {
+      "title": "Bản eBook",
+      "volume": "1",
+      "last_updated": "1667059886",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/70291f25-fba6-4784-9157-9b6e90d31234"
+      }
+    },
+    "8.5": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1667059990",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/b278272d-1002-45c9-8ced-108691a1d218"
+      }
+    },
+    "9.5": {
+      "title": "Khi tôi về đến nhà, vợ tôi đang chờ tôi với vở vẽ trên tay",
+      "volume": "1",
+      "last_updated": "1667060024",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/61e6c877-401c-49ab-b8bd-dab6bf7d2c8e"
+      }
+    },
+    "12.5": {
+      "title": "Người chồng sốc lại con tim yếu đuối của cô ấy",
+      "volume": "1",
+      "last_updated": "1667060098",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/43fa9ef1-cc07-40c9-bbf9-618ee9035153"
+      }
+    }
+  }
+}
