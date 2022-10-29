@@ -1,0 +1,89 @@
+{
+  "title": "Hello World",
+  "description": "The \"sci-fi love story\" film is set in Kyoto in the year 2027, and will feature famous landmarks such as Fushimi Inari Taisha and Kamo Shrine. The film centers on Naomi Katagaki, a male high school student. One day, a person who calls himself Naomi 10 years from now appears in front of the young Naomi. Together, they must change the future and save a classmate, Ruri, whom the younger Naomi starts to date in three months.",
+  "artist": "Sono Yoshihiro; Suzuki Manatsu",
+  "author": "Mado Nozaki",
+  "cover": "https://mangadex.org/covers/263b6cb0-4d7b-4a34-bb0f-5282f8968095/afc04ac4-eaab-4eb0-a6a4-6dc470e1913b.jpg",
+  "chapters": {
+    "1": {
+      "title": "Phase:1",
+      "volume": "1",
+      "last_updated": "1667061187",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/18f2c2c9-e7da-498b-b688-2e4f5aaa4a73"
+      }
+    },
+    "2": {
+      "title": "Phase:2",
+      "volume": "1",
+      "last_updated": "1667061216",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/b61a9777-0a0f-45e0-90c5-e2ddbdaa5003"
+      }
+    },
+    "3": {
+      "title": "Phase:3",
+      "volume": "1",
+      "last_updated": "1667061230",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/c4d11c40-722b-4c30-8ad5-979354861fc0"
+      }
+    },
+    "4": {
+      "title": "Phase:4",
+      "volume": "1",
+      "last_updated": "1667061243",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/e5874ffa-121d-4ba5-8b4c-d855317acc80"
+      }
+    },
+    "5": {
+      "title": "Phase:5",
+      "volume": "1",
+      "last_updated": "1667061259",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/19dfdfd0-2623-47e4-9ab6-e2a764f26a14"
+      }
+    },
+    "6": {
+      "title": "Phase:6",
+      "volume": "2",
+      "last_updated": "1667061275",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/30faa8cf-e072-4ef7-9cfa-3772635b7402"
+      }
+    },
+    "7": {
+      "title": "Phase:7",
+      "volume": "2",
+      "last_updated": "1667061290",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/dd476d78-0b18-4e8a-bba0-d29a347259e0"
+      }
+    },
+    "8": {
+      "title": "Phase:8",
+      "volume": "2",
+      "last_updated": "1667061303",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/fc5aedb2-2a4a-4063-9468-12b8bccf9082"
+      }
+    },
+    "9": {
+      "title": "Phase:9",
+      "volume": "2",
+      "last_updated": "1667061319",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/f4c6e3d6-a675-4894-a73b-efa06842bb0a"
+      }
+    },
+    "10": {
+      "title": "{hase:10",
+      "volume": "2",
+      "last_updated": "1667061330",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/dbc34f88-79e1-4cd0-8588-8e5b00a7d2cb"
+      }
+    }
+  }
+}
