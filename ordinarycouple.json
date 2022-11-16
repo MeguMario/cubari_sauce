@@ -127,7 +127,7 @@
     },
     "9.5": {
       "title": "Khi tôi về đến nhà, vợ tôi đang chờ tôi với vở vẽ trên tay",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1667060024",
       "groups": {
         "Ning's Basement": "/proxy/api/mangadex/chapter/61e6c877-401c-49ab-b8bd-dab6bf7d2c8e"
@@ -135,10 +135,18 @@
     },
     "12.5": {
       "title": "Người chồng sốc lại con tim yếu đuối của cô ấy",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1667060098",
       "groups": {
         "Ning's Basement": "/proxy/api/mangadex/chapter/43fa9ef1-cc07-40c9-bbf9-618ee9035153"
+      }
+    },
+    "13.5": {
+      "title": "Cô dâu này sẽ nói phương ngữ nếu lỡ quá chén",
+      "volume": "2",
+      "last_updated": "1668561565",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/54c7e287-c3a9-444a-878c-decd4a492274"
       }
     }
   }
