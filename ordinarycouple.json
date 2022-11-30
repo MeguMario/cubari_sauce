@@ -111,7 +111,7 @@
     },
     "14": {
       "title": "",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1669131755",
       "groups": {
         "Ning's Basement": "/proxy/api/mangadex/chapter/bedfe87d-30e5-4989-8c6b-776283ef9511"
@@ -155,6 +155,14 @@
       "last_updated": "1668561565",
       "groups": {
         "Ning's Basement": "/proxy/api/mangadex/chapter/54c7e287-c3a9-444a-878c-decd4a492274"
+      }
+    },
+    "10.5": {
+      "title": "Xấu hổ chút thôi",
+      "volume": "2",
+      "last_updated": "1669828132",
+      "groups": {
+        "Ning's Basement": "/proxy/api/mangadex/chapter/fd11ac40-f65d-4732-b387-f936172adc5b"
       }
     }
   }
