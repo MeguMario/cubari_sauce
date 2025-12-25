@@ -1,10 +1,45 @@
 {
   "title": "Blue Archive: Cuộc phiêu lưu của Câu lạc bộ Phát Triển Game",
-  "description": "",
+  "description": "Spin-off chính thức của tựa game đang làm mưa làm giá Blue Archive",
   "artist": "Mizu Asato",
   "author": "Mizu Asato",
   "cover": "https://images2.imgbox.com/fd/d6/te6fDd8T_o.png",
   "chapters": {
+    "1": {
+      "title": "Vén lên bức màn của sự kì ảo",
+      "volume": "1",
+      "last_updated": "1766644387",
+      "groups": {
+        "": [
+          "https://images2.imgbox.com/49/05/FQFsI2sz_o.png",
+          "https://images2.imgbox.com/b5/e7/BLRkMOXb_o.png",
+          "https://images2.imgbox.com/74/06/14MWM9uk_o.png",
+          "https://images2.imgbox.com/b8/c3/aHOj10ST_o.png",
+          "https://images2.imgbox.com/0a/0f/I2dkraKo_o.png",
+          "https://images2.imgbox.com/00/1a/9qP5Zppe_o.png",
+          "https://images2.imgbox.com/6e/c1/ukkXJAXB_o.png",
+          "https://images2.imgbox.com/11/b1/REUzAQBO_o.png",
+          "https://images2.imgbox.com/9c/be/P2fkGoGG_o.png",
+          "https://images2.imgbox.com/aa/0a/wIjk7zDH_o.png",
+          "https://images2.imgbox.com/8d/7b/YE4OSyaW_o.png",
+          "https://images2.imgbox.com/f0/12/4Sa6LKe8_o.png",
+          "https://images2.imgbox.com/1a/69/Jsnsf3Ep_o.png",
+          "https://images2.imgbox.com/72/ba/S9aRfWWI_o.png",
+          "https://images2.imgbox.com/79/db/wmM703Yz_o.png",
+          "https://images2.imgbox.com/fe/63/xZw0f62H_o.png",
+          "https://images2.imgbox.com/4b/62/DqEwie4l_o.png",
+          "https://images2.imgbox.com/be/32/V7rNTTLN_o.png",
+          "https://images2.imgbox.com/23/7e/96nL4hrT_o.png",
+          "https://images2.imgbox.com/7e/b0/V0Z8zDlp_o.png",
+          "https://images2.imgbox.com/59/2d/oGlnYrBQ_o.png",
+          "https://images2.imgbox.com/e2/51/Q0hsCgFi_o.png",
+          "https://images2.imgbox.com/28/8c/j3TuLe8t_o.png",
+          "https://images2.imgbox.com/cb/43/gT74lPO6_o.png",
+          "https://images2.imgbox.com/05/2a/f8KCEQjz_o.png",
+          "https://images2.imgbox.com/1f/23/pXdE1Sdy_o.png"
+        ]
+      }
+    },
     "8": {
       "title": "Lời lẽ xúc phạm",
       "volume": "2",
